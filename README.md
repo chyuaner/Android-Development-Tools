@@ -44,6 +44,7 @@
 #### 開發指南
 * [Android UI Patterns](http://www.auipatterns.com/)
 * [Android UI Design Patterns at Droidcon Paris 2013 // Speaker Deck](https://speakerdeck.com/mathieu_calba/android-ui-design-patterns-at-droidcon-paris-2013)
+
 #### 元件指南
 ##### Google Now UI
 * [How to create expandable cards like Google Now in Android? - Stack Overflow](http://stackoverflow.com/questions/17141500/how-to-create-expandable-cards-like-google-now-in-android)
