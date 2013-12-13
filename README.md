@@ -3,11 +3,19 @@
 ## 程式碼編寫工具
 
 ### 整合開發環境
-#### Eclipse
+#### Eclipse + ADT plugin
+* 主程式下載 <http://www.eclipse.org/>
+* Android Plugin https://dl-ssl.google.com/android/eclipse/
+
+##### 相關教學
+* [在Ubuntu建置Android開發環境（用套件管理程式安裝Eclipse）](http://blog.yuaner.tw/2012/08/install-android-dev-in-ubuntu/)
 
 #### Android Studio
+* 主程式下載 <https://developer.android.com/sdk/installing/studio.html>
 
 #### AIDE
+* 官方網站 <http://www.android-ide.com/>
+* Google Play <https://play.google.com/store/apps/details?id=com.aide.ui&hl=zh_TW>
 
 ### 開發成品跨平台
 #### Titanium SDK
@@ -24,8 +32,12 @@
 * [App Inventor對Android市場是個靈藥還是毒藥？ - Inside 硬塞的網路趨勢觀察](http://www.inside.com.tw/2010/07/13/app-inventor-a-good-effect-or-not)
 
 ### 除錯/測試工具
-#### ASM -螢幕畫面顯示
+#### Android Screen Monitor (ASM) -螢幕畫面顯示
+* 官網下載 <http://code.google.com/p/android-screen-monitor/>
 
+##### 相關教學
+* [Android Screen Monitor (ASM) - 在電梯裡遇見雙胞胎 | As a DevCoder | 傑洛米 Jeremy](http://imsardine.simplbug.com/note/asm/asm.html)
+* [林顆粒筆記: 筆記- 手機(Android OS) 與 PC 畫面同步 (使用Android Screen Monitor, 免Root!!)](http://hello-lin-kelly.blogspot.tw/2012/05/android-os-pc-android-screen-monitor.html)
 
 ---
 
