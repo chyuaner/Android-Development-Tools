@@ -1,4 +1,6 @@
 # Android開發工具整理
+以下是收集了各式各樣的開發工具、函式庫、參考文件...等等的相關連結，希望能對開發Android應用程式有幫助。如有不完善的地方，歡迎加以補充！！
+
 ## Android版本分佈
 Android Developers - Dashboards
 
