@@ -1,14 +1,19 @@
 # Android開發工具整理
+## Android版本分佈
+Android Developers - Dashboards
+
+<http://developer.android.com/about/dashboards/index.html>
+
 
 ## 程式碼編寫工具
 
 ### 整合開發環境
+#### Android SDK
+<http://developer.android.com/sdk/index.html>
+
 #### Eclipse + ADT plugin
 * 主程式下載 <http://www.eclipse.org/>
 * Android Plugin https://dl-ssl.google.com/android/eclipse/
-
-##### 相關教學
-* [在Ubuntu建置Android開發環境（用套件管理程式安裝Eclipse）](http://blog.yuaner.tw/2012/08/install-android-dev-in-ubuntu/)
 
 #### Android Studio
 * 主程式下載 <https://developer.android.com/sdk/installing/studio.html>
@@ -34,13 +39,14 @@
 
 ### 除錯/測試工具
 #### Genymotion - Android 模擬器
-* 官網下載 <http://www.genymotion.com/>
+* 官網 <http://www.genymotion.com/>
 * 官網下載(需註冊帳號) <https://cloud.genymotion.com/page/launchpad/download/>
 
 ##### 教學
 * [Genymotion Emulator：x86架構最快速的Android模擬器，加快Android程式開發 | 簡睿隨筆簡睿隨筆](http://jdev.tw/blog/3663/using-fastest-android-genymotion-emulator)
 
 #### AndroVM
+PS. AndroVM moving to Genymotion product!!
 * 官網 <http://androvm.org/blog/>
 
 #### Android-x86 - Porting Android to x86 
@@ -114,3 +120,6 @@
 #### 元件指南
 ##### Google Now UI
 * [How to create expandable cards like Google Now in Android? - Stack Overflow](http://stackoverflow.com/questions/17141500/how-to-create-expandable-cards-like-google-now-in-android)
+
+### API設計
+* [Web Api of Android backend by tonyq](http://slid.es/tonyq/web-api-of-android-backend)
