@@ -18,7 +18,8 @@
 * Google Play <https://play.google.com/store/apps/details?id=com.aide.ui&hl=zh_TW>
 
 ### 開發成品跨平台
-#### Titanium SDK
+#### Titanium Studio
+* 官網 <http://www.appcelerator.com/titanium/titanium-studio/>
 
 ### 線上開發環境
 #### App Inventor
@@ -32,6 +33,20 @@
 * [App Inventor對Android市場是個靈藥還是毒藥？ - Inside 硬塞的網路趨勢觀察](http://www.inside.com.tw/2010/07/13/app-inventor-a-good-effect-or-not)
 
 ### 除錯/測試工具
+#### Genymotion - Android 模擬器
+* 官網下載 <http://www.genymotion.com/>
+* 官網下載(需註冊帳號) <https://cloud.genymotion.com/page/launchpad/download/>
+
+##### 教學
+* [Genymotion Emulator：x86架構最快速的Android模擬器，加快Android程式開發 | 簡睿隨筆簡睿隨筆](http://jdev.tw/blog/3663/using-fastest-android-genymotion-emulator)
+
+#### AndroVM
+* 官網 <http://androvm.org/blog/>
+
+#### Android-x86 - Porting Android to x86 
+* 官網 <http://www.android-x86.org/>
+* 官網下載 <http://www.android-x86.org/download>
+
 #### Android Screen Monitor (ASM) -螢幕畫面顯示
 * 官網下載 <http://code.google.com/p/android-screen-monitor/>
 
@@ -46,6 +61,14 @@
 ### Framework
 #### 網頁
 ##### PhoneGap
+* 官網 <http://phonegap.com/>
+* 官網安裝 <http://phonegap.com/install/>
+* Facebook粉絲團: PhoneGap 台灣 <https://www.facebook.com/PhoneGapTW>
+
+##### 教學
+* [ICOS 2013 利用 PhoneGap 與 HTML5 開發手機應用程式](http://www.slideshare.net/kurotanshi/icos-2013-phonegap-html5)
+* [第一次開發PhoneGap教學筆記 - apa](http://blog.rx836.tw/blog/phonegap-first/)
+* [CSC Studio • 關於 PhoneGap 的三大迷思](http://csc-studio.tumblr.com/post/25313277978/phonegap)
 
 ### 界面相關
 
