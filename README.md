@@ -22,9 +22,13 @@ Android Developers - Dashboards
 * 官方網站 <http://www.android-ide.com/>
 * Google Play <https://play.google.com/store/apps/details?id=com.aide.ui&hl=zh_TW>
 
+---
+
 ### 開發跨平台成品
 #### Titanium Studio
 * 官網 <http://www.appcelerator.com/titanium/titanium-studio/>
+
+---
 
 ### 線上開發環境
 #### App Inventor
@@ -36,6 +40,8 @@ Android Developers - Dashboards
 ##### 教學
 * [App Inventor for Android，寫手機程式真簡單 | T客邦](http://www.techbang.com/posts/3055-google-launched-app-inventor-for-android-everyone-can-write-code)
 * [App Inventor對Android市場是個靈藥還是毒藥？ - Inside 硬塞的網路趨勢觀察](http://www.inside.com.tw/2010/07/13/app-inventor-a-good-effect-or-not)
+
+---
 
 ### 除錯/測試工具
 #### Genymotion - Android 模擬器
@@ -60,8 +66,6 @@ PS. AndroVM moving to Genymotion product!!
 * [Android Screen Monitor (ASM) - 在電梯裡遇見雙胞胎 | As a DevCoder | 傑洛米 Jeremy](http://imsardine.simplbug.com/note/asm/asm.html)
 * [林顆粒筆記: 筆記- 手機(Android OS) 與 PC 畫面同步 (使用Android Screen Monitor, 免Root!!)](http://hello-lin-kelly.blogspot.tw/2012/05/android-os-pc-android-screen-monitor.html)
 
----
-
 ## 輔助函式庫
 
 ### Framework
@@ -76,11 +80,15 @@ PS. AndroVM moving to Genymotion product!!
 * [第一次開發PhoneGap教學筆記 - apa](http://blog.rx836.tw/blog/phonegap-first/)
 * [CSC Studio • 關於 PhoneGap 的三大迷思](http://csc-studio.tumblr.com/post/25313277978/phonegap)
 
+---
+
 ### 界面相關
 
 #### ActionBar
 ##### ActionBarSherlock
 * <http://actionbarsherlock.com/>
+
+---
 
 #### ListView
 ##### ListViewAnimations
@@ -110,11 +118,12 @@ PS. AndroVM moving to Genymotion product!!
 * <http://viewpagerindicator.com/>
 * <https://github.com/JakeWharton/Android-ViewPagerIndicator/>
 
----
 ## 參考資料/教學手冊
 ### Android API改版
 #### in Android 4.2 (Jelly Bean)
 * [Security Enhancements in Jelly Bean | Android Developers Blog](http://android-developers.blogspot.tw/2013/02/security-enhancements-in-jelly-bean.html)
+
+---
 
 ### 界面參考
 #### 開發指南
@@ -124,6 +133,8 @@ PS. AndroVM moving to Genymotion product!!
 #### 元件指南
 ##### Google Now UI
 * [How to create expandable cards like Google Now in Android? - Stack Overflow](http://stackoverflow.com/questions/17141500/how-to-create-expandable-cards-like-google-now-in-android)
+
+---
 
 ### Web API設計
 * [Web Api of Android backend by tonyq](http://slid.es/tonyq/web-api-of-android-backend)
