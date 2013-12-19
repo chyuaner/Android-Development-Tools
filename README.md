@@ -17,7 +17,7 @@
 * 官方網站 <http://www.android-ide.com/>
 * Google Play <https://play.google.com/store/apps/details?id=com.aide.ui&hl=zh_TW>
 
-### 開發成品跨平台
+### 開發跨平台成品
 #### Titanium Studio
 * 官網 <http://www.appcelerator.com/titanium/titanium-studio/>
 
