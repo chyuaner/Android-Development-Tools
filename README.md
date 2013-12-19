@@ -41,10 +41,9 @@ Android Developers - Dashboards
 * [App Inventor for Android，寫手機程式真簡單 | T客邦](http://www.techbang.com/posts/3055-google-launched-app-inventor-for-android-everyone-can-write-code)
 * [App Inventor對Android市場是個靈藥還是毒藥？ - Inside 硬塞的網路趨勢觀察](http://www.inside.com.tw/2010/07/13/app-inventor-a-good-effect-or-not)
 
----
-
-### 除錯/測試工具
-#### Genymotion - Android 模擬器
+## 除錯/測試工具
+### Android 模擬器
+#### Genymotion
 * 官網 <http://www.genymotion.com/>
 * 官網下載(需註冊帳號) <https://cloud.genymotion.com/page/launchpad/download/>
 
@@ -61,13 +60,27 @@ PS. AndroVM moving to Genymotion product!!
 * 官網 <http://www.android-x86.org/>
 * 官網下載 <http://www.android-x86.org/download>
 
-
-#### Android Screen Monitor (ASM) -螢幕畫面顯示
+### 螢幕畫面顯示
+#### Android Screen Monitor (ASM)
 * 官網下載 <http://code.google.com/p/android-screen-monitor/>
 
 ###### 相關教學
 * [Android Screen Monitor (ASM) - 在電梯裡遇見雙胞胎 | As a DevCoder | 傑洛米 Jeremy](http://imsardine.simplbug.com/note/asm/asm.html)
 * [林顆粒筆記: 筆記- 手機(Android OS) 與 PC 畫面同步 (使用Android Screen Monitor, 免Root!!)](http://hello-lin-kelly.blogspot.tw/2012/05/android-os-pc-android-screen-monitor.html)
+
+### 反組譯工具
+#### Android apktool
+* <http://code.google.com/p/android-apktool/>
+* Download <http://code.google.com/p/android-apktool/downloads/list>
+* FAQ <http://code.google.com/p/android-apktool/wiki/FAQ>
+
+#### dex2jar
+* <http://code.google.com/p/dex2jar/>
+* Download <http://code.google.com/p/dex2jar/downloads/list>
+* UserGuide <http://code.google.com/p/dex2jar/wiki/UserGuide>
+* 
+#### JD-GUI
+* <http://jd.benow.ca/#jd-gui-overview>
 
 ## 輔助函式庫
 
