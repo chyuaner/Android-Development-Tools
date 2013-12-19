@@ -34,12 +34,10 @@ Android Developers - Dashboards
 
 ### 線上開發環境
 #### App Inventor
-<http://ai2.appinventor.mit.edu/>
+* <http://ai2.appinventor.mit.edu/>
+* Explorer <http://appinventor.mit.edu/explore/>
 
-##### Explorer
-<http://appinventor.mit.edu/explore/>
-
-##### 教學
+###### 相關教學
 * [App Inventor for Android，寫手機程式真簡單 | T客邦](http://www.techbang.com/posts/3055-google-launched-app-inventor-for-android-everyone-can-write-code)
 * [App Inventor對Android市場是個靈藥還是毒藥？ - Inside 硬塞的網路趨勢觀察](http://www.inside.com.tw/2010/07/13/app-inventor-a-good-effect-or-not)
 
@@ -50,21 +48,24 @@ Android Developers - Dashboards
 * 官網 <http://www.genymotion.com/>
 * 官網下載(需註冊帳號) <https://cloud.genymotion.com/page/launchpad/download/>
 
-##### 教學
+###### 相關教學
 * [Genymotion Emulator：x86架構最快速的Android模擬器，加快Android程式開發 | 簡睿隨筆簡睿隨筆](http://jdev.tw/blog/3663/using-fastest-android-genymotion-emulator)
+
 
 #### AndroVM
 PS. AndroVM moving to Genymotion product!!
 * 官網 <http://androvm.org/blog/>
 
+
 #### Android-x86 - Porting Android to x86 
 * 官網 <http://www.android-x86.org/>
 * 官網下載 <http://www.android-x86.org/download>
 
+
 #### Android Screen Monitor (ASM) -螢幕畫面顯示
 * 官網下載 <http://code.google.com/p/android-screen-monitor/>
 
-##### 相關教學
+###### 相關教學
 * [Android Screen Monitor (ASM) - 在電梯裡遇見雙胞胎 | As a DevCoder | 傑洛米 Jeremy](http://imsardine.simplbug.com/note/asm/asm.html)
 * [林顆粒筆記: 筆記- 手機(Android OS) 與 PC 畫面同步 (使用Android Screen Monitor, 免Root!!)](http://hello-lin-kelly.blogspot.tw/2012/05/android-os-pc-android-screen-monitor.html)
 
@@ -114,6 +115,8 @@ PS. AndroVM moving to Genymotion product!!
 
 ##### Pull To Refresh
 * <https://github.com/erikwt/PullToRefresh-ListView>
+
+---
 
 ### ViewPager
 #### ViewPagerIndicator
