@@ -65,7 +65,7 @@
 * 官網安裝 <http://phonegap.com/install/>
 * Facebook粉絲團: PhoneGap 台灣 <https://www.facebook.com/PhoneGapTW>
 
-##### 教學
+###### 教學
 * [ICOS 2013 利用 PhoneGap 與 HTML5 開發手機應用程式](http://www.slideshare.net/kurotanshi/icos-2013-phonegap-html5)
 * [第一次開發PhoneGap教學筆記 - apa](http://blog.rx836.tw/blog/phonegap-first/)
 * [CSC Studio • 關於 PhoneGap 的三大迷思](http://csc-studio.tumblr.com/post/25313277978/phonegap)
