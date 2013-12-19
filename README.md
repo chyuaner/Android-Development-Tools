@@ -60,6 +60,7 @@ PS. AndroVM moving to Genymotion product!!
 * 官網 <http://www.android-x86.org/>
 * 官網下載 <http://www.android-x86.org/download>
 
+---
 ### 螢幕畫面顯示
 #### Android Screen Monitor (ASM)
 * 官網下載 <http://code.google.com/p/android-screen-monitor/>
@@ -68,6 +69,7 @@ PS. AndroVM moving to Genymotion product!!
 * [Android Screen Monitor (ASM) - 在電梯裡遇見雙胞胎 | As a DevCoder | 傑洛米 Jeremy](http://imsardine.simplbug.com/note/asm/asm.html)
 * [林顆粒筆記: 筆記- 手機(Android OS) 與 PC 畫面同步 (使用Android Screen Monitor, 免Root!!)](http://hello-lin-kelly.blogspot.tw/2012/05/android-os-pc-android-screen-monitor.html)
 
+---
 ### 反組譯工具
 #### Android apktool
 * <http://code.google.com/p/android-apktool/>
@@ -131,8 +133,8 @@ PS. AndroVM moving to Genymotion product!!
 
 ---
 
-### ViewPager
-#### ViewPagerIndicator
+#### ViewPager
+##### ViewPagerIndicator
 * <http://viewpagerindicator.com/>
 * <https://github.com/JakeWharton/Android-ViewPagerIndicator/>
 
