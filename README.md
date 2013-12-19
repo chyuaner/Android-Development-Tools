@@ -96,13 +96,13 @@ PS. AndroVM moving to Genymotion product!!
 * <https://github.com/bauerca/drag-sort-listview>
 * <https://play.google.com/store/apps/details?id=com.mobeta.android.demodslv>
 
-#### JazzyListView
+##### JazzyListView
 \#Animations
 
 * <https://github.com/twotoasters/jazzylistview>
 * <https://play.google.com/store/apps/details?id=com.twotoasters.jazzylistview.sample>
 
-#### Pull To Refresh
+##### Pull To Refresh
 * <https://github.com/erikwt/PullToRefresh-ListView>
 
 ### ViewPager
