@@ -112,6 +112,10 @@ PS. AndroVM moving to Genymotion product!!
 
 ---
 ## 參考資料/教學手冊
+### Android API改版
+#### in Android 4.2 (Jelly Bean)
+* [Security Enhancements in Jelly Bean | Android Developers Blog](http://android-developers.blogspot.tw/2013/02/security-enhancements-in-jelly-bean.html)
+
 ### 界面參考
 #### 開發指南
 * [Android UI Patterns](http://www.auipatterns.com/)
@@ -121,5 +125,5 @@ PS. AndroVM moving to Genymotion product!!
 ##### Google Now UI
 * [How to create expandable cards like Google Now in Android? - Stack Overflow](http://stackoverflow.com/questions/17141500/how-to-create-expandable-cards-like-google-now-in-android)
 
-### API設計
+### Web API設計
 * [Web Api of Android backend by tonyq](http://slid.es/tonyq/web-api-of-android-backend)
