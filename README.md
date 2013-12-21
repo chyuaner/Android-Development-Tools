@@ -112,9 +112,8 @@ Android Developers - Dashboards
 
 ## 輔助函式庫
 
-### Framework
-#### 網頁
-##### PhoneGap
+### 網頁Framework
+#### PhoneGap
 * 官網 <http://phonegap.com/>
 * 官網安裝 <http://phonegap.com/install/>
 * Facebook粉絲團: PhoneGap 台灣 <https://www.facebook.com/PhoneGapTW>
@@ -127,13 +126,20 @@ Android Developers - Dashboards
 ---
 
 ### 界面相關
+#### Theme
+##### Android-Bootstrap
+* <https://github.com/Bearded-Hen/Android-Bootstrap>
 
 #### ActionBar
 ##### ActionBarSherlock
 * <http://actionbarsherlock.com/>
 
 ---
+#### SlidingMenu
+* <https://play.google.com/store/apps/details?id=com.slidingmenu.example>
+* <https://github.com/jfeinstein10/SlidingMenu>
 
+---
 #### ListView
 ##### ListViewAnimations
 \#GoogleNowUI \#Drag \#Swipe \#Animations
@@ -158,7 +164,6 @@ Android Developers - Dashboards
 * <https://github.com/erikwt/PullToRefresh-ListView>
 
 ---
-
 #### ViewPager
 ##### ViewPagerIndicator
 * <http://viewpagerindicator.com/>
@@ -174,6 +179,7 @@ Android Developers - Dashboards
 ### 界面參考
 #### 開發指南
 * [Android UI Patterns](http://www.auipatterns.com/)
+* [Android vs iPhone - Differences in UI Patterns and Design](http://www.slideshare.net/jeremy/android-vs-iphone-differences-in-ui-patterns-and-design) (請尊重不同平台介面的UI設計吧～
 * [Android UI Design Patterns at Droidcon Paris 2013 // Speaker Deck](https://speakerdeck.com/mathieu_calba/android-ui-design-patterns-at-droidcon-paris-2013)
 
 #### 元件指南
