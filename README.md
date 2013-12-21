@@ -25,13 +25,11 @@ Android Developers - Dashboards
 * Google Play <https://play.google.com/store/apps/details?id=com.aide.ui&hl=zh_TW>
 
 ---
-
 ### 開發跨平台成品
 #### Titanium Studio
 * 官網 <http://www.appcelerator.com/titanium/titanium-studio/>
 
 ---
-
 ### 線上開發環境
 #### App Inventor
 * <http://ai2.appinventor.mit.edu/>
@@ -41,6 +39,7 @@ Android Developers - Dashboards
 * [App Inventor for Android，寫手機程式真簡單 | T客邦](http://www.techbang.com/posts/3055-google-launched-app-inventor-for-android-everyone-can-write-code)
 * [App Inventor對Android市場是個靈藥還是毒藥？ - Inside 硬塞的網路趨勢觀察](http://www.inside.com.tw/2010/07/13/app-inventor-a-good-effect-or-not)
 
+---
 ### Android Resource字典
 #### Android Resource Viewer (Android裝置上的)
 * <http://aschillings.co.uk/html/android_resource_viewer.html>
