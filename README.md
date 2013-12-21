@@ -66,6 +66,7 @@ Android Developers - Dashboards
 * 官網 <http://www.android-x86.org/>
 * 官網下載 <http://www.android-x86.org/download>
 
+---
 ### 螢幕畫面顯示
 #### Android Screen Monitor (ASM)
 * 官網下載 <http://code.google.com/p/android-screen-monitor/>
@@ -156,8 +157,8 @@ Android Developers - Dashboards
 
 ---
 
-### ViewPager
-#### ViewPagerIndicator
+#### ViewPager
+##### ViewPagerIndicator
 * <http://viewpagerindicator.com/>
 * <https://github.com/JakeWharton/Android-ViewPagerIndicator/>
 
