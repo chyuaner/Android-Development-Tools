@@ -20,7 +20,7 @@ Android Developers - Dashboards
 #### Android Studio
 * 主程式下載 <https://developer.android.com/sdk/installing/studio.html>
 
-#### AIDE
+#### AIDE (Android裝置上的)
 * 官方網站 <http://www.android-ide.com/>
 * Google Play <https://play.google.com/store/apps/details?id=com.aide.ui&hl=zh_TW>
 
@@ -41,6 +41,13 @@ Android Developers - Dashboards
 * [App Inventor for Android，寫手機程式真簡單 | T客邦](http://www.techbang.com/posts/3055-google-launched-app-inventor-for-android-everyone-can-write-code)
 * [App Inventor對Android市場是個靈藥還是毒藥？ - Inside 硬塞的網路趨勢觀察](http://www.inside.com.tw/2010/07/13/app-inventor-a-good-effect-or-not)
 
+### Android Resource字典
+#### Android Resource Viewer (Android裝置上的)
+* <http://aschillings.co.uk/html/android_resource_viewer.html>
+* <https://play.google.com/store/apps/details?id=aws.apps.androidDrawables&hl=zh_TW>
+* <https://github.com/alt236/Android-Drawables---Android>
+
+
 ## 除錯/測試工具
 ### Android 模擬器
 #### Genymotion
@@ -50,11 +57,10 @@ Android Developers - Dashboards
 ###### 相關教學
 * [Genymotion Emulator：x86架構最快速的Android模擬器，加快Android程式開發 | 簡睿隨筆簡睿隨筆](http://jdev.tw/blog/3663/using-fastest-android-genymotion-emulator)
 
-
 #### AndroVM
-PS. AndroVM moving to Genymotion product!!
-* 官網 <http://androvm.org/blog/>
+**PS. AndroVM moving to Genymotion product!!**
 
+* 官網 <http://androvm.org/blog/>
 
 #### Android-x86 - Porting Android to x86 
 * 官網 <http://www.android-x86.org/>
@@ -68,7 +74,26 @@ PS. AndroVM moving to Genymotion product!!
 * [Android Screen Monitor (ASM) - 在電梯裡遇見雙胞胎 | As a DevCoder | 傑洛米 Jeremy](http://imsardine.simplbug.com/note/asm/asm.html)
 * [林顆粒筆記: 筆記- 手機(Android OS) 與 PC 畫面同步 (使用Android Screen Monitor, 免Root!!)](http://hello-lin-kelly.blogspot.tw/2012/05/android-os-pc-android-screen-monitor.html)
 
+### 終端機
+#### Android Terminal Emulator (Android裝置上的)
+* <https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=zh_TW>
+* <https://github.com/jackpal/Android-Terminal-Emulator>
+* <https://github.com/jackpal/Android-Terminal-Emulator/wiki>
+
+#### aShell (Android裝置上的)
+* <https://play.google.com/store/apps/details?id=dk.andsen.aShell&hl=zh_TW>
+
+### SQLite查看器
+#### SQLite Debugger (Android裝置上的)
+* <https://play.google.com/store/apps/details?id=oliver.ehrenmueller.dbadmin&hl=zh_TW>
+
+#### aSQLiteManager (Android裝置上的)
+* <https://play.google.com/store/apps/details?id=dk.andsen.asqlitemanager&hl=zh_TW>
+
 ### 反組譯工具
+#### Dexplorer (Android裝置上的)
+* <https://play.google.com/store/apps/details?id=com.dexplorer>
+
 #### Android apktool
 * <http://code.google.com/p/android-apktool/>
 * Download <http://code.google.com/p/android-apktool/downloads/list>
