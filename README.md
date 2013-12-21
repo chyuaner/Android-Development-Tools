@@ -75,6 +75,7 @@ Android Developers - Dashboards
 * [Android Screen Monitor (ASM) - 在電梯裡遇見雙胞胎 | As a DevCoder | 傑洛米 Jeremy](http://imsardine.simplbug.com/note/asm/asm.html)
 * [林顆粒筆記: 筆記- 手機(Android OS) 與 PC 畫面同步 (使用Android Screen Monitor, 免Root!!)](http://hello-lin-kelly.blogspot.tw/2012/05/android-os-pc-android-screen-monitor.html)
 
+---
 ### 終端機
 #### Android Terminal Emulator (Android裝置上的)
 * <https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=zh_TW>
@@ -84,6 +85,7 @@ Android Developers - Dashboards
 #### aShell (Android裝置上的)
 * <https://play.google.com/store/apps/details?id=dk.andsen.aShell&hl=zh_TW>
 
+---
 ### SQLite查看器
 #### SQLite Debugger (Android裝置上的)
 * <https://play.google.com/store/apps/details?id=oliver.ehrenmueller.dbadmin&hl=zh_TW>
@@ -91,8 +93,9 @@ Android Developers - Dashboards
 #### aSQLiteManager (Android裝置上的)
 * <https://play.google.com/store/apps/details?id=dk.andsen.asqlitemanager&hl=zh_TW>
 
+---
 ### 反組譯工具
-#### Dexplorer (Android裝置上的)
+#### Dexplorer (Android裝置上的)S
 * <https://play.google.com/store/apps/details?id=com.dexplorer>
 
 #### Android apktool
