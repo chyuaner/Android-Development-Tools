@@ -155,6 +155,16 @@ Android Developers - Dashboards
 * <https://play.google.com/store/apps/details?id=com.slidingmenu.example>
 * <https://github.com/jfeinstein10/SlidingMenu>
 
+#### ActionBar-PullToRefresh
+* <https://github.com/chrisbanes/ActionBar-PullToRefresh>
+* <http://play.google.com/store/apps/details?id=uk.co.senab.actionbarpulltorefresh.samples.stock>
+* <http://www.androidviews.net/2013/08/actionbar-pull-to-refresh/>
+
+#### FadingActionBar
+* <http://cyrilmottier.com/2013/05/24/pushing-the-actionbar-to-the-next-level/>
+* <https://github.com/ManuelPeinado/FadingActionBar>
+* <https://play.google.com/store/apps/details?id=com.manuelpeinado.fadingactionbar.demo>
+
 ---
 #### ListView
 ##### ListViewAnimations
