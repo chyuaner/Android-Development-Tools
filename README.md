@@ -124,6 +124,12 @@ Android Developers - Dashboards
 * [CSC Studio • 關於 PhoneGap 的三大迷思](http://csc-studio.tumblr.com/post/25313277978/phonegap)
 
 ---
+### Android Framework
+#### ThinkAndroid
+* <http://www.thinkandroid.cn>
+* <https://github.com/white-cat/ThinkAndroid>
+
+---
 
 ### 界面相關
 #### Theme
@@ -160,6 +166,11 @@ Android Developers - Dashboards
 * <https://github.com/twotoasters/jazzylistview>
 * <https://play.google.com/store/apps/details?id=com.twotoasters.jazzylistview.sample>
 
+##### LazyList
+A simple library to display images in Android ListView.
+
+* <https://github.com/thest1/LazyList>
+
 ##### Pull To Refresh
 * <https://github.com/erikwt/PullToRefresh-ListView>
 
@@ -168,6 +179,16 @@ Android Developers - Dashboards
 ##### ViewPagerIndicator
 * <http://viewpagerindicator.com/>
 * <https://github.com/JakeWharton/Android-ViewPagerIndicator/>
+
+---
+#### Image
+##### PhotoView
+* <https://play.google.com/store/apps/details?id=uk.co.senab.photoview.sample>
+* <https://github.com/chrisbanes/PhotoView>
+
+##### Universal Image Loader for Android
+\#ListView \#GirdView \#ViewPager \#Gallery
+* <https://github.com/nostra13/Android-Universal-Image-Loader>
 
 ## 參考資料/教學手冊
 ### Android API改版
