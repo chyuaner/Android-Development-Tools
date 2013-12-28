@@ -140,6 +140,10 @@ Android Developers - Dashboards
 ##### Android-Bootstrap
 * <https://github.com/Bearded-Hen/Android-Bootstrap>
 
+#### Notifications
+##### Android Notifications 4.1 everyWhere
+* <https://github.com/youxiachai/Notifications4EveryWhere>
+
 #### ActionBar
 ##### ActionBarSherlock
 * <http://actionbarsherlock.com/>
@@ -170,13 +174,30 @@ Android Developers - Dashboards
 * <https://github.com/twotoasters/jazzylistview>
 * <https://play.google.com/store/apps/details?id=com.twotoasters.jazzylistview.sample>
 
+##### PinterestLikeAdapterView
+瀑布形版面
+
+* <https://github.com/huewu/PinterestLikeAdapterView>
+
 ##### LazyList
 A simple library to display images in Android ListView.
 
 * <https://github.com/thest1/LazyList>
 
+##### SwipeListView
+* <https://play.google.com/store/apps/details?id=com.fortysevendeg.android.swipelistview>
+* <https://github.com/ywenblocker/android-swipelistview>
+
+##### XListView-Android
+pull down refresh
+
+* <https://github.com/Maxwin-z/XListView-Android>
+
 ##### Pull To Refresh
 * <https://github.com/erikwt/PullToRefresh-ListView>
+
+##### StickyListHeaders
+* <https://github.com/emilsjolander/StickyListHeaders>
 
 ---
 #### ViewPager
@@ -188,6 +209,9 @@ A simple library to display images in Android ListView.
 * <http://viewpagerindicator.com/>
 * <https://github.com/JakeWharton/Android-ViewPagerIndicator/>
 
+##### NetEaseTab
+* <https://github.com/stormzhang/NetEaseTab>
+
 ---
 #### Image
 ##### PhotoView
@@ -197,6 +221,7 @@ A simple library to display images in Android ListView.
 ##### Universal Image Loader for Android
 \#ListView \#GirdView \#ViewPager \#Gallery
 * <https://github.com/nostra13/Android-Universal-Image-Loader>
+
 
 ## 參考資料/教學手冊
 ### Android API改版
