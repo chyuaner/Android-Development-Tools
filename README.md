@@ -46,6 +46,10 @@ Android Developers - Dashboards
 * <https://play.google.com/store/apps/details?id=aws.apps.androidDrawables&hl=zh_TW>
 * <https://github.com/alt236/Android-Drawables---Android>
 
+---
+### 產生器
+#### Android Action Bar Style Generator
+* <http://jgilfelt.github.io/android-actionbarstylegenerator/>
 
 ## 除錯/測試工具
 ### Android 模擬器
@@ -136,6 +140,10 @@ Android Developers - Dashboards
 ---
 
 ### 界面相關
+#### 收集站
+##### AndroidViews
+* <http://www.androidviews.net/>
+
 #### Theme
 ##### Android-Bootstrap
 * <https://github.com/Bearded-Hen/Android-Bootstrap>
