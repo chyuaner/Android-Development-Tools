@@ -92,6 +92,10 @@ Android Developers - Dashboards
 #### aSQLiteManager (Android裝置上的)
 * <https://play.google.com/store/apps/details?id=dk.andsen.asqlitemanager&hl=zh_TW>
 
+#### SQLite Manager (Firefox Addon)
+* <https://addons.mozilla.org/zh-TW/firefox/addon/sqlite-manager/>
+* <http://code.google.com/p/sqlite-manager/>
+
 ---
 ### 反組譯工具
 #### Dexplorer (Android裝置上的)S
@@ -176,6 +180,10 @@ A simple library to display images in Android ListView.
 
 ---
 #### ViewPager
+##### WizarDroid
+* Denny改良的 <https://github.com/denny0223/WizarDroid>
+* 原版 <https://github.com/Nimrodda/WizarDroid>
+
 ##### ViewPagerIndicator
 * <http://viewpagerindicator.com/>
 * <https://github.com/JakeWharton/Android-ViewPagerIndicator/>
