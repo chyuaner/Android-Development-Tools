@@ -144,6 +144,10 @@ Android Developers - Dashboards
 ##### AndroidViews
 * <http://www.androidviews.net/>
 
+##### Libraries for developers
+* <https://play.google.com/store/apps/details?id=com.desarrollodroide.repos>
+
+
 #### Theme
 ##### Android-Bootstrap
 * <https://github.com/Bearded-Hen/Android-Bootstrap>
@@ -207,10 +211,21 @@ A simple library to display images in Android ListView.
 * <https://play.google.com/store/apps/details?id=com.fortysevendeg.android.swipelistview>
 * <https://github.com/ywenblocker/android-swipelistview>
 
+##### EnhancedListView
+An Android ListView with enhanced functionality (e.g. Swipe To Dismiss and Undo)
+
+* <https://play.google.com/store/apps/details?id=de.timroes.android.listviewdemo>
+* <https://github.com/timroes/EnhancedListView>
+
 ##### XListView-Android
 pull down refresh
 
 * <https://github.com/Maxwin-z/XListView-Android>
+
+##### MultiChoiceAdapter
+MultiChoiceAdapter is an implementation of ListAdapter which adds support for modal multiple choice selection as in the native Gmail app. 
+
+* <https://github.com/dzwillpower/MultiChoiceAdapter>
 
 ##### Pull To Refresh
 * <https://github.com/erikwt/PullToRefresh-ListView>
