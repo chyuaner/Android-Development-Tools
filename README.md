@@ -147,10 +147,19 @@ Android Developers - Dashboards
 ##### Libraries for developers
 * <https://play.google.com/store/apps/details?id=com.desarrollodroide.repos>
 
+##### Open Source Libraries
+* <https://play.google.com/store/apps/details?id=com.fit.opensourcelibs>
+
 
 #### Theme
 ##### Android-Bootstrap
 * <https://github.com/Bearded-Hen/Android-Bootstrap>
+
+##### HoloAccent
+* License: Apache License, Version 2.0
+
+* <https://play.google.com/store/apps/details?id=com.negusoft.holoaccent.example>
+* <https://github.com/negusoft/holoaccent>
 
 ---
 #### Notifications
@@ -175,6 +184,15 @@ Android Developers - Dashboards
 * <http://cyrilmottier.com/2013/05/24/pushing-the-actionbar-to-the-next-level/>
 * <https://github.com/ManuelPeinado/FadingActionBar>
 * <https://play.google.com/store/apps/details?id=com.manuelpeinado.fadingactionbar.demo>
+
+---
+
+#### Toast
+##### SuperToasts
+* License: Apache License, Version 2.0
+
+* <https://play.google.com/store/apps/details?id=com.supertoastsdemo>
+* <https://github.com/JohnPersano/Supertoasts>
 
 ---
 #### ListView
@@ -245,6 +263,12 @@ MultiChoiceAdapter is an implementation of ListAdapter which adds support for mo
 
 ##### NetEaseTab
 * <https://github.com/stormzhang/NetEaseTab>
+
+##### PagerSlidingTabStrip
+* License: Apache License, Version 2.0
+
+* <https://play.google.com/store/apps/details?id=com.astuetz.viewpager.extensions.sample>
+* <https://github.com/astuetz/PagerSlidingTabStrip>
 
 ---
 #### Image
