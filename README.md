@@ -18,7 +18,10 @@ Android Developers - Dashboards
 * Android Plugin https://dl-ssl.google.com/android/eclipse/
 
 #### Android Studio
-* 主程式下載 <https://developer.android.com/sdk/installing/studio.html>
+主程式下載 
+
+* <http://tools.android.com/download/studio/canary>
+* <https://developer.android.com/sdk/installing/studio.html>
 
 #### AIDE (Android裝置上的)
 * 官方網站 <http://www.android-ide.com/>
@@ -48,6 +51,9 @@ Android Developers - Dashboards
 
 ---
 ### 產生器
+#### Android Asset Studio
+* <http://romannurik.github.io/AndroidAssetStudio/>
+
 #### Android Action Bar Style Generator
 * <http://jgilfelt.github.io/android-actionbarstylegenerator/>
 
@@ -138,6 +144,11 @@ Android Developers - Dashboards
 * <https://github.com/white-cat/ThinkAndroid>
 
 ---
+
+### 連接伺服端
+#### Android Asynchronous Http Client
+* <http://loopj.com/android-async-http/>
+* <https://github.com/AsyncHttpClient/async-http-client>
 
 ### 界面相關
 #### 收集站
@@ -280,6 +291,18 @@ MultiChoiceAdapter is an implementation of ListAdapter which adds support for mo
 \#ListView \#GirdView \#ViewPager \#Gallery
 * <https://github.com/nostra13/Android-Universal-Image-Loader>
 
+---
+
+#### Picker
+##### JKCalendar
+Accupass Share Custom Calendar View
+
+* <https://github.com/Jakevin/JKCalendar>
+
+## 圖示資源
+
+### Android Action Bar Icons
+* <https://github.com/svenkapudija/Android-Action-Bar-Icons>
 
 ## 參考資料/教學手冊
 ### Android API改版
@@ -289,14 +312,35 @@ MultiChoiceAdapter is an implementation of ListAdapter which adds support for mo
 ---
 
 ### 界面參考
+#### 其他Android 相關連結整理
+* <https://github.com/snowdream/awesome-android>
+* <https://github.com/Trinea/android-open-project>
+
 #### 開發指南
+* [官方的 Android Developers Design](https://developer.android.com/design/index.html)
 * [Android UI Patterns](http://www.auipatterns.com/)
 * [Android vs iPhone - Differences in UI Patterns and Design](http://www.slideshare.net/jeremy/android-vs-iphone-differences-in-ui-patterns-and-design) (請尊重不同平台介面的UI設計吧～
 * [Android UI Design Patterns at Droidcon Paris 2013 // Speaker Deck](https://speakerdeck.com/mathieu_calba/android-ui-design-patterns-at-droidcon-paris-2013)
 
+![Android Design Stencil](http://commondatastorage.googleapis.com/androiddevelopers/design/Android_Design_Fireworks_Stencil_20120814.png)
+
+
+##### Material Design
+- [Material design - Google design guidelines](http://www.google.com/design/spec/material-design/introduction.html)
+* [MaterialUp - Daily Material Design Inspiration](http://www.materialup.com/)
+* [15 Cool Material Design Examples ](http://www.woltbit.com/resources/15-cool-material-design-examples)
+
+
 #### 元件指南
 ##### Google Now UI
 * [How to create expandable cards like Google Now in Android? - Stack Overflow](http://stackoverflow.com/questions/17141500/how-to-create-expandable-cards-like-google-now-in-android)
+
+---
+
+### 教學資源
+
+* [stormzhang](http://stormzhang.com/timeline.html)
+* [antonio leiva](http://antonioleiva.com/)
 
 ---
 
