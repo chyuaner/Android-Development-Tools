@@ -44,10 +44,20 @@ Android Developers - Dashboards
 
 ---
 ### Android Resource字典
+#### Android R Drawables
+* <http://androiddrawableexplorer.appspot.com/>
+
 #### Android Resource Viewer (Android裝置上的)
 * <http://aschillings.co.uk/html/android_resource_viewer.html>
 * <https://play.google.com/store/apps/details?id=aws.apps.androidDrawables&hl=zh_TW>
 * <https://github.com/alt236/Android-Drawables---Android>
+
+---
+
+### 螢幕尺寸
+
+#### dpilove
+* <http://dpi.lv/>
 
 ---
 ### 產生器
@@ -123,6 +133,14 @@ Android Developers - Dashboards
 
 #### JD-GUI
 * <http://jd.benow.ca/#jd-gui-overview>
+
+---
+### 測試輔助
+#### android-test-kit
+Google's Testing Tools For Android
+
+* <https://code.google.com/p/android-test-kit/wiki/EspressoStartGuide>
+
 
 ## 輔助函式庫
 
@@ -314,7 +332,7 @@ Accupass Share Custom Calendar View
 ### 界面參考
 #### 其他Android 相關連結整理
 * <https://github.com/snowdream/awesome-android>
-* <https://github.com/Trinea/android-open-project>
+* <https://github.com/Trinea/android-open-project/tree/master/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E7%89%88>
 
 #### 開發指南
 * [官方的 Android Developers Design](https://developer.android.com/design/index.html)
@@ -328,7 +346,10 @@ Accupass Share Custom Calendar View
 ##### Material Design
 - [Material design - Google design guidelines](http://www.google.com/design/spec/material-design/introduction.html)
 * [MaterialUp - Daily Material Design Inspiration](http://www.materialup.com/)
+* [Material design in the 2014 Google I/O app](http://blog.25sprout.com/2014/08/google_io_material_design/)
+* [Appcompat v21 Material Support ](http://semoncat.logdown.com/posts/238498-appcompat-v21-material-support)
 * [15 Cool Material Design Examples ](http://www.woltbit.com/resources/15-cool-material-design-examples)
+* [AppCompat v21 — Material Design for Pre-Lollipop Devices!](http://android-developers.blogspot.tw/2014/10/appcompat-v21-material-design-for-pre.html)
 
 
 #### 元件指南
