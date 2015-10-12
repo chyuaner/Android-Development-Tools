@@ -60,12 +60,20 @@ Android Developers - Dashboards
 * <http://dpi.lv/>
 
 ---
+
 ### 產生器
 #### Android Asset Studio
 * <http://romannurik.github.io/AndroidAssetStudio/>
 
 #### Android Action Bar Style Generator
 * <http://jgilfelt.github.io/android-actionbarstylegenerator/>
+
+#### Android 9-patch shadow generator 陰影產生
+* <http://inloop.github.io/shadow4android/>
+
+#### Android Button Maker
+* <http://angrytools.com/android/button/>
+
 
 ## 除錯/測試工具
 ### Android 模擬器
@@ -333,12 +341,14 @@ Accupass Share Custom Calendar View
 #### 其他Android 相關連結整理
 * <https://github.com/snowdream/awesome-android>
 * <https://github.com/Trinea/android-open-project/tree/master/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E7%89%88>
+* <https://github.com/wasabeef/awesome-android-ui>
 
 #### 開發指南
 * [官方的 Android Developers Design](https://developer.android.com/design/index.html)
 * [Android UI Patterns](http://www.auipatterns.com/)
 * [Android vs iPhone - Differences in UI Patterns and Design](http://www.slideshare.net/jeremy/android-vs-iphone-differences-in-ui-patterns-and-design) (請尊重不同平台介面的UI設計吧～
 * [Android UI Design Patterns at Droidcon Paris 2013 // Speaker Deck](https://speakerdeck.com/mathieu_calba/android-ui-design-patterns-at-droidcon-paris-2013)
+* [Android Cheatsheet for Graphic Designers](http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/)
 
 ![Android Design Stencil](http://commondatastorage.googleapis.com/androiddevelopers/design/Android_Design_Fireworks_Stencil_20120814.png)
 
